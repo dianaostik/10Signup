@@ -28,3 +28,56 @@ p {
 .aa {
     color: white;
 }
+
+.title1 {
+    font-weight: 900;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.title2 {
+    color: gray;
+    margin-left: 20px;
+    font-weight: 100;
+    margin-bottom: 20px;
+
+}
+
+
+.row {
+    margin-top: 20px;
+}
+
+.one {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.two {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.three {
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.four {
+    color: gray;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.five {
+    width: 120px;
+    margin-left: 1px;
+}
+
+.btn-primary {
+    background-color: #3598dc;
+}
+
+.confi {
+    background-color: #f2f2f2;
+}
