@@ -75,10 +75,15 @@ p {
 }
 
 .btn-primary {
-    background-color: #3598dc;
+    background-color: #399cdd;
     font-weight: 700;
 }
 
 .confi {
+    border:none;
     background-color: #f2f2f2;
+}
+
+.bb {
+    color: #1a8fdd;
 }
