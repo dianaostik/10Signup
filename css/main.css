@@ -16,32 +16,15 @@ body {
     background-color: #ffffff;
 }
 
-
-/* .navbar-collapse{
-    float: right;
+.first {
+    border-bottom: 1px solid grey;
 }
 
-.navbar{
-    background-color: rgb(112, 236, 55) !important; 
-
-    font-weight: 900;
-    font-size: 25px;
+p {
+    text-align-last: center;
+    color: white;
 }
 
-#dataForm{
-    margin:50px;
+.aa {
+    color: white;
 }
-
-.btn-primary{
-    color:blueviolet;
-    background-color: gray;
-}
-
-.btn-primary:hover{
-    color:rgb(110, 226, 43);
-    background-color: gray;
-}
-
-.box{
-    background-color: antiquewhite;
-} */
