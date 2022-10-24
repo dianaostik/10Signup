@@ -1,0 +1,47 @@
+body {
+    background-color: #0e0e0e;
+}
+
+.container.blue1 {
+    margin-top: 100px;
+    padding: 45px;
+    height: 610px;
+    width: 550px;
+    background-color: #3598dc;
+}
+
+.container.white1 {
+    height: 510px;
+    width: 380px;
+    background-color: #ffffff;
+}
+
+
+/* .navbar-collapse{
+    float: right;
+}
+
+.navbar{
+    background-color: rgb(112, 236, 55) !important; 
+
+    font-weight: 900;
+    font-size: 25px;
+}
+
+#dataForm{
+    margin:50px;
+}
+
+.btn-primary{
+    color:blueviolet;
+    background-color: gray;
+}
+
+.btn-primary:hover{
+    color:rgb(110, 226, 43);
+    background-color: gray;
+}
+
+.box{
+    background-color: antiquewhite;
+} */
